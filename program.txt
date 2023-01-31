@@ -1,0 +1,5 @@
+# thinkpython, python4everyone, swan.
+
+python4everyone - chapter one, chapter two, chapter three, chapter four, chapter five, chapter six
+thinkpython  - chapter one, chapter two
+swan - chapter one, chapter two
